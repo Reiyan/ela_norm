@@ -1,0 +1,6 @@
+venv/
+
+*.json
+*.pyc
+*.RData
+*.Rhistory
